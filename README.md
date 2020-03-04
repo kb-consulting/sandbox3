@@ -16,7 +16,7 @@ This document gives information and history for the following PCB release:
 ## PCB Images
 
 Top View:
-do something
+do 
 ![alt text][image_top]
 
 Bottom View:
